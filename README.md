@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Kyle here, young programmer on the rise!
